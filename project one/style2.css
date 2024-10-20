@@ -7,3 +7,61 @@ body{
     width: 50%;
     margin: 0 auto;
 }
+
+.w3 h2{
+    margin: 50px;
+    
+}
+
+h2{
+    color: limegreen;
+}
+
+
+.form{
+    margin: 50px;
+}
+
+.form-label{
+    padding-top: 10px;   
+}
+
+.form-label input{
+    margin-top: 5px;
+    text-align: center;
+    padding: 5px;
+    width: 350px;
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+.account{
+    padding-left: 150px;
+}
+
+.sign{
+    color: rgb(17, 206, 17);
+}
+
+.pass{
+    padding-top: 25px;
+}
+
+.pass input{
+    margin-top: 5px;
+    text-align: center;
+    padding: 5px;
+    width: 350px;
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+button{
+    margin-top: 30px;
+    padding: 10px;
+    width: 120px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(3, 233, 3);
+    color: white;
+}
