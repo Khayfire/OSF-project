@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 109, 0.801);
+}
+
+.background h2{
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.container{
+    border: 1px ;
+    background-color: white;
+}
+
+.fname{
+    margin: 20px;   
+}
+
+.fname input{
+    padding: 5px;
+    margin: 10px;
+    width: 280px;
+}
+
+.country input{
+    width: 600px;
+}
+
+.info{
+    
+}
+.info input{
+    width: 600px;
+    padding-top: 50px;   
+}
+
+.add{
+    position: relative;
+    margin: 20px;
+    
+
+}
+
+.add input{
+   width: 600px;
+    padding: 8px;
+
+}
+
+.add button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 18px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border: none;
+}
+.background p{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
